@@ -1,0 +1,23 @@
+{
+    int x, y, re;
+    int i;
+    int modx, mody;
+    int gcd;
+    i = 1;
+    read(x, y);
+    if (x > y) {
+        re = x;
+    } else {
+        re = y;
+    }
+    while( i < re ){
+        modx = x % i;
+        mody = y % i;
+	if( (modx == 0) && (mody == 0) ){
+		gcd = i;
+	}
+        i = i + 1;
+    }
+    re = (x * y) / gcd;
+    write(re);
+}

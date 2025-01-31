@@ -1,0 +1,40 @@
+1	name=x	lev=0	addr=3	type=0
+2	name=y	lev=0	addr=4	type=0
+3	name=re	lev=0	addr=5	type=0
+4	name=i	lev=0	addr=6	type=0
+5	name=modx	lev=0	addr=7	type=0
+6	name=mody	lev=0	addr=8	type=0
+7	name=gcd	lev=0	addr=9	type=0
+
+1	name=x	lev=0	addr=3	type=0
+2	name=y	lev=0	addr=4	type=0
+3	name=re	lev=0	addr=5	type=0
+4	name=i	lev=0	addr=6	type=0
+5	name=modx	lev=0	addr=7	type=0
+6	name=mody	lev=0	addr=8	type=0
+7	name=gcd	lev=0	addr=9	type=0
+
+1	name=x	lev=0	addr=3	type=0
+2	name=y	lev=0	addr=4	type=0
+3	name=re	lev=0	addr=5	type=0
+4	name=i	lev=0	addr=6	type=0
+5	name=modx	lev=0	addr=7	type=0
+6	name=mody	lev=0	addr=8	type=0
+7	name=gcd	lev=0	addr=9	type=0
+
+1	name=x	lev=0	addr=3	type=0
+2	name=y	lev=0	addr=4	type=0
+3	name=re	lev=0	addr=5	type=0
+4	name=i	lev=0	addr=6	type=0
+5	name=modx	lev=0	addr=7	type=0
+6	name=mody	lev=0	addr=8	type=0
+7	name=gcd	lev=0	addr=9	type=0
+
+1	name=x	lev=0	addr=3	type=0
+2	name=y	lev=0	addr=4	type=0
+3	name=re	lev=0	addr=5	type=0
+4	name=i	lev=0	addr=6	type=0
+5	name=modx	lev=0	addr=7	type=0
+6	name=mody	lev=0	addr=8	type=0
+7	name=gcd	lev=0	addr=9	type=0
+
